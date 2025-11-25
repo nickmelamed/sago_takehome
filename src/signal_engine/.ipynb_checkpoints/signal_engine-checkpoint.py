@@ -4,7 +4,7 @@
 import datetime
 
 class SignalEngine:
-    WEIGHTS = { # can customize weights depending on how much you believe each category matters 
+    WEIGHTS = { # can customize weights depending on how much you believe each category matters, or add more categories 
         "funding_round": 0.9,
         "hiring": 0.7,
         "product_launch": 0.85
