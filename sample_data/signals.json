@@ -1,0 +1,20 @@
+[
+  {
+    "type": "product_launch",
+    "description": "FlowCastAI launches v1.0 public beta.",
+    "date": "2025-11-01"
+  },
+  {
+    "type": "hiring",
+    "role": "Head of Sales",
+    "description": "FlowCastAI opens search for first sales hire.",
+    "date": "2025-10-20"
+  },
+  {
+    "type": "funding_round",
+    "stage": "Seed",
+    "amount": 2500000,
+    "description": "FlowCastAI raises a $2.5M Seed round led by Atlas Ventures.",
+    "date": "2025-10-15"
+  }
+]
