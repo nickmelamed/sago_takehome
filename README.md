@@ -11,6 +11,8 @@ This prototype focuses on:
 - Execution layer stub (e.g., Slack approval → Gmail send)
 
 ## Repo Tree
+
+```
 sago-reengagement-prototype/
 │
 ├── README.md
@@ -37,6 +39,7 @@ sago-reengagement-prototype/
 │   └── sample_output.json
 │
 └── requirements.txt
+```
 
 ## Architecture Overview
 See `/architecture/architecture.pdf`.
